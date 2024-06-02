@@ -1,0 +1,50 @@
+<center><h1>School Of Addis abeba</h1></center>
+<h2>General Information</h2>
+<p>Ababa, the capital city of Ethiopia, hosts a variety of schools ranging from primary to secondary and higher education institutions. These schools include public, private, and international options, catering to the diverse needs of its population.</p>
+<h2><ul>Types of Schools
+</h2>
+<ul>
+<li>Public Schools: Funded and run by the government, these schools follow the national curriculum set by the Ministry of Education.</li>
+<ii>Private Schools: These are independently run and may offer different curricula, including national and international programs.</ii>
+<li>International Schools: Cater to expatriates and locals seeking an international curriculum, such as the International Baccalaureate (IB), Cambridge International Examinations (CIE), or American curricula.</li>
+
+<h2>Notable Schools in Addis Ababa</h2>
+<ol>
+<h3>1.International Community School of Addis Ababa (ICS)</h3>
+<ol><li>Offers the American curriculum and the IB Diploma Program.</li>
+<li>education from pre-kindergarten to grade 12.</li>
+<li>for its diverse student body and extensive facilities.</li>
+</ol> 
+<h3>2.Sandford International School</h3>
+<ol>
+<li>Follows the British curriculum (IGCSE and A-Levels).</li>
+<li>Serves students from kindergarten to grade 12.</li>
+<li>Emphasizes a holistic education with various extracurricular activities.</li>
+<li>Lycee Guebre-Mariam</li>
+</ol>
+<p>A French international school offering the French National Curriculum.
+Provides education from pre-school to high school.
+Offers the French Baccalaureate.</p>
+<h3>Nazareth School</h3>
+
+<li>private Catholic school known for its strong academic performance.</li>
+<li>Offers education from kindergarten to grade 12.</li>
+<li>Focuses on moral and academic education.</li>
+<h3>Admissions</h3>
+<ol>
+<li>Schools: Typically based on catchment areas. Admission may require proof of residence and completion of the previous grade level.</li>
+<li>Private and International Schools: Often have more detailed admission processes including entrance exams, interviews, and submission of previous academic records. It is advisable to check each school's specific requirements and deadlines.</li>
+</ol>
+<ol><h3>Curriculum</h3>
+<li>National Curriculum: Implemented by public schools and many private schools, covering subjects like Amharic, English, mathematics, science, and social studies.</li>
+<li>Curricula: Offered by international schools, including IB, CIE, and American curricula. These programs are recognized globally and often emphasize critical thinking, creativity, and global awareness.</li>
+</ol>
+<style>
+    body{
+background-color: antiquewhite;
+
+}
+h1{
+    color: ;
+}    
+</style>

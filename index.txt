@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>activity 4.7</title>
+    
+    <style>
+body{
+    background-image:url("1976949087.jpg" );
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+p{
+    color:red;
+}
+
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+}
+
+ul li a{
+    text-decoration: none;
+    color:white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+    gap:5px;
+}
+
+ul li a:hover{
+    color: #e08a19;
+}
+img{
+    height: 100px;
+    width: 1
+00px;
+}
+    </style>
+</head>  
+<body>
+    
+    <center><ul>
+        <li><a href="home.html">HOME</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+    </ul>
+    </center>
+
+<img src="1976949087.jpg">
+
+</body>
+</html>
